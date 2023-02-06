@@ -1,0 +1,31 @@
+*{
+    background-image: url(https://i.vimeocdn.com/video/587731011-f32994c8e5c514967c853f133a42dd3fa65a08519ca0799acea49bbad192802c-d_640x310.jpg);
+    z-index: -1;
+}
+body{
+    color: antiquewhite;
+    
+}
+#counter{
+    color: aliceblue;
+    font-size: 80px;
+    font-weight: 800;
+    
+}
+
+#divCtr{
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+}
+button{
+    font-size: large;
+    font-weight: 400;
+    height: 50px;
+    width: 90px;
+    box-sizing: 100px;
+    text-align: center;
+    color: rgb(202, 194, 194);
+    background: rgb(204, 27, 27);
+    border-radius: 10px;
+}
