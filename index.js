@@ -3,7 +3,7 @@
             function increment(){
                 count += 1
                 countEl.innerHTML = count
-                navigator.vibrate(800)
+                navigator.vibrate(500)
                 // document.getElementById("counter").innerHTML = count
             }
 
@@ -25,6 +25,6 @@
 
        function reset(){
         document.getElementById("entPrev").innerText = "previous entries are : "
-
+         navigator.vibrate(1000)
 
        }
