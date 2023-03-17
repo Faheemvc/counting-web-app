@@ -19,8 +19,8 @@
             countEl.innerText= 0
             count = 0
             document.getElementById("saveBtn").style.color = "#saveBtn"
-
-            
+             navigator.vibrate([200,300,400])
+           
        }
 
        function reset(){
