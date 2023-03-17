@@ -3,7 +3,7 @@
             function increment(){
                 count += 1
                 countEl.innerHTML = count
-                navigator.vibrate(1000)
+                navigator.vibrate(800)
                 // document.getElementById("counter").innerHTML = count
             }
 
